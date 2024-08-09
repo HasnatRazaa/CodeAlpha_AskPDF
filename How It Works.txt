@@ -1,0 +1,13 @@
+How It Works
+
+
+1.Upload PDF: 
+	Upload a PDF file using the file uploader.
+2.Extract Text: 
+	The application extracts text from the uploaded PDF file.
+3.Ask Questions:
+	 Enter a question related to the PDF content.
+4.Get Answers:
+	 The application uses "Google Generative AI" to generate answers based on the extracted text.
+5.View History:
+	 The conversation history is displayed within the app.
