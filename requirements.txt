@@ -1,0 +1,4 @@
+PyMuPDF
+langchain_google_genai
+streamlit
+grpcio
